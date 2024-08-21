@@ -1,6 +1,6 @@
 # -CUSTOMER-ANALYSIS
 ENTRI SOFTWARE PVT LIMITED CUSTOMER ANALYSIS
-ENTRI SOFTWARE PVT LIMITED CUSTOMER ANALYSIS
+
 Analysis of ENTRI SOFTWARE PVT LIMITED Clientele Overview aims to categorize customers according to their propensity to accept campaigns by analyzing their behavior. The company also tries to segment its customers for more focused marketing campaigns. The analysis will be carried out with historical information about the customer.
 
 Project Goal:
